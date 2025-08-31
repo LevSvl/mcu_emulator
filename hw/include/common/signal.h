@@ -9,4 +9,8 @@ typedef unsigned char signal_t;
 #define SIGNAL_INTERNAL     signal_t
 #define SIGNAL_T            signal_t
 
+#define input
+#define output
+#define input_output
+
 #endif // SIGNAL_H
